@@ -11,9 +11,9 @@ com apenas uma semana, e coloca-lo em prática, trouxe-me conhecimentos inimagin
 
 Neste projeto utiliza-se:
 
-> HTML
-> CSS
-> JavaScript
-> Nodejs
-> SQLite
+<br>> HTML
+<br>> CSS
+<br>> JavaScript
+<br>> Nodejs
+<br>> SQLite
 

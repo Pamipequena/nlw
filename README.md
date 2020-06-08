@@ -1,6 +1,6 @@
 # NLW
 
-## subtitle Projeto Next Level Week Starter
+## Projeto Next Level Week Starter
 
 Este projeto foi desenvolvido durante a semana "Next Level Week",
 que a empresa @Rocket.chat disponibilizou gratuitamente,
